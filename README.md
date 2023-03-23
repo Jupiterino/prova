@@ -3,5 +3,8 @@ maremma ~maiala~
 -top
 -top
 -top
-|Kick|HiHat|Snare|
-|Basse|Altissime|MedioAlte|
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
